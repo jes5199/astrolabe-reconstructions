@@ -30,8 +30,8 @@ The published SVG files carry their lettering as outlines, so no font is needed 
 |---|---|
 | Noto Kufi Arabic | Isfahan and Toledo: zodiac and star names, limb numerals, plate lettering |
 | Gentium Plus | Byzantine: the rete's zodiac names, star names and verses |
-| EB Garamond | England 1326: the rete's zodiac and star names |
-| Manufacturing Consent | England c. 1370, front and back: the small Gothic letters. England 1326: the words of the plate's inscription |
+| EB Garamond | England 1326: the degree numbers of the zodiac band |
+| Manufacturing Consent | England c. 1370, front and back: the small Gothic letters |
 | Inter | the caption at the foot of every sheet |
 
 Much of the lettering is not type but built from strokes of our own, read from the photographs:
@@ -39,7 +39,7 @@ Much of the lettering is not type but built from strokes of our own, read from t
 - Isfahan: the crossed lam-alif in two names.
 - Byzantine: every letter on the limb and the plate, a pen alphabet of 22 plain Greek capitals.
 - Toledo: the stretched letters of the zodiac names, the crossed lam-alif, and the waw and mim of the Gemini name.
-- England 1326: all ten figures of the limb and the plate.
+- England 1326: the twelve zodiac names and five star names of the rete, the plate's inscription, and all ten figures of the limb and the plate.
 - England c. 1370, front: the capitals of the sign and star names, the sign for the ending -us, the 23 hour letters of the limb with their cross and lozenges, and the plate's figures.
 - England c. 1370, back: the capitals, the figures, the -us sign, the abbreviation bar, the leaf spray and the points.
 

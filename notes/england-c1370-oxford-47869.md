@@ -8,7 +8,7 @@ An astrolabe, England (?), c. 1370, in the History of Science Museum, University
 
 ## What the drawing shows
 
-The front: the rete (the pierced star map) with 21 flame-shaped pointers and a dragon whose head and tail close the outer band; under it the plate (tympan) for London, latitude 52°; the limb (rim) with its hour letters; the throne, shackle and ring above.
+The front: the rete (the pierced star map) with 21 flame-shaped pointers and a dragon whose head and tail close the outer band; under it the plate (tympan) for London, latitude 52°; the limb (rim) with its hour letters; the throne, shackle and ring above. Over the rete lies the instrument's own rule, with the pin and its wedge at the centre.
 
 ## Read from the photographs
 
@@ -17,11 +17,14 @@ The front: the rete (the pierced star map) with 21 flame-shaped pointers and a d
 - The limb: a ladder of 360 one-degree cells; 72 empty five-degree blocks; and 24 hour marks, a cross at the top and then the letters A to Z without J, U and W, clockwise, tops outwards, with a lozenge between each pair.
 - The plate: "London 52" as engraved; almucantars (circles of equal altitude) at 2°, 6°, 10° and so on; azimuth circles above the horizon; eleven hour lines numbered 1 to 12.
 - The throne: a scrolled base, a boss, a two-leaved shackle and the ring.
+- The rule, from a photograph of it alone and one of the assembled instrument: double-ended, each arm with one straight edge on the line through the centre and the brass to the same side of it on both arms, tapering at about 3°, the tips cut obliquely. Its tip reaches 0.98 of the limb's radius, across the band of hour letters. It carries no scale and no sights. It is drawn where it lies on the photograph, its edges towards 113° and 293° clockwise from the top.
+- The pin's domed head and the wedge through it.
 
 ## Continued by rule
 
 - The hour marks stand at exact 15° steps. The maker's are each within 1.6° of those places.
 - The 24 lozenges are identical. The flames are built to one rule.
+- The rule's two arms are drawn equal and identical, their straight edges exactly on one line through the centre. On the photograph the arms differ by about 3 per cent in length and the edges lie on one line within 3.6 px.
 - The scale on the zodiac band comes from the projection. The maker's dividers lie within about 4 px of it on the photograph.
 
 ## Inferred
@@ -32,7 +35,7 @@ The front: the rete (the pierced star map) with 21 flame-shaped pointers and a d
 
 ## Left out
 
-The rule, the pin and wedge, the back, and the plate's lug. The beaded outer edge of the lower half of the zodiac band. The plate's inner almucantar numerals (from 54), which are not legible. For legibility at small size, five hour letters (M, S, T, V, X) and a few capitals of the names are drawn more open than engraved.
+The back (drawn separately) and the plate's lug. The beaded outer edge of the lower half of the zodiac band. The plate's inner almucantar numerals (from 54), which are not legible. For legibility at small size, five hour letters (M, S, T, V, X) and a few capitals of the names are drawn more open than engraved.
 
 ## Sources
 
